@@ -1,8 +1,19 @@
-body,
-html {
+body {
   width: 100%;
+
+  .site-content {
+    margin: 0;
+    padding: 0;
+  }
+
+  .entry-title {
+    display: none;
+  }
 
   .homepage-slideshow {
     width: 100%;
+    .figure {
+      width: 1200px;
+    }
   }
 }

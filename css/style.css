@@ -1,0 +1,21 @@
+body {
+  width: 100%;
+}
+
+body .site-content {
+  margin: 0;
+  padding: 0;
+}
+
+body .entry-title {
+  display: none;
+}
+
+body .homepage-slideshow {
+  width: 100%;
+}
+
+body .homepage-slideshow .figure {
+  width: 1200px;
+}
+/*# sourceMappingURL=style.css.map */

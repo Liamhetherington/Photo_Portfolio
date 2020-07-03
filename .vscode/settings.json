@@ -6,5 +6,5 @@
       "savePath": "/css"
     }
   ],
-  "liveSassCompile.settings.includeItems": ["/scss/style.scss"]
+  "liveSassCompile.settings.includeItems": ["./scss/style.scss"]
 }
